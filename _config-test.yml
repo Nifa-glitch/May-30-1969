@@ -4,21 +4,18 @@
 permalink: none
 
 # Setup
-title: "archipelagos"
-publisher: "Columbia University Libraries"
-description: "a journal of Caribbean digital praxis"
+title: "MAy 30, 1969
+publisher: "National Archeological Anthropological Memorymanagement"
+description: "A combination of educational material"
 
 # MOCK
-url: "http://dev.elotroalex.com"
-baseurl: "/archipelagos"
+url: ""
+baseurl: "/"
 future: True
 incremental: False
 
-githuburl: "https://github.com/archipelagosjournal/archipelagos"
+githuburl: 
 
-# Colophon
-old_issn: 2473-2206
-issn: 2689-842X
 
 # Collections
 collections:
@@ -28,32 +25,31 @@ collections:
     slug_es: es/issue01
     output: true
     number: 1
-    date: "June 2016"
-    title: "Issue (1)"
+    date: "May 2022"
+    title: "HUMA; LANTAMENTU ANUNSIA"
     editors:
-      - Kaiama Glover
-      - Alex Gil
-      - Kelly Baker Josephs
+      - Nifa Ansano
+      - Tesseley Jansen
+      - Dimitri Cloose
     production:
-      - Alex Gil
-      - Dennis Tenen
-      - Brian Ballsun-Stanton
-      - Kelly S. Martin
+      - Nifa Ansano
+      - Dimitri Cloose
+      - Angelique Meyer
   issue02:
     slug: issue02
     slug_fr: fr/issue02
     slug_es: es/issue02
     output: true
     number: 2
-    date: "September 2017"
+    date: "MAY 2025"
     title: "Issue (2)"
     editors:
-      - Kaiama Glover
-      - Alex Gil
+      - Nifa Ansano
+      - Dimitri Cloose
     production:
-      - Alex Gil
-      - Brian Ballsun-Stanton
-      - Kelly S. Martin
+      - Nifa Ansano
+      - Kristine Krolis
+      - Tesseley Jansen
   issue03:
     slug: issue03
     slug_fr: fr/issue03
@@ -70,74 +66,7 @@ collections:
       - Alex Gil
       - Brian Ballsun-Stanton
       - Kelly S. Martin
-  issue04:
-    slug: issue04
-    slug_fr: fr/issue04
-    slug_es: es/issue04
-    output: true
-    number: 4
-    date: "March 2020"
-    title: "Issue (4)"
-    editors:
-      - Kaiama Glover
-      - Alex Gil
-    production:
-      - Alex Gil
-      - Brian Ballsun-Stanton
-      - Kelly S. Martin
-  issue05:
-    slug: issue05
-    slug_fr: fr/issue05
-    slug_es: es/issue05
-    output: true
-    number: 5
-    date: "December 2020"
-    title: "Issue (5)"
-    editors:
-      - Kaiama Glover
-      - Alex Gil
-    production:
-      - Alex Gil
-      - Brian Ballsun-Stanton
-      - Kelly S. Martin
-  issue06:
-    slug: issue06
-    slug_fr: fr/issue06
-    slug_es: es/issue06
-    output: true
-    number: 6
-    date: "May 2022"
-    title: "Issue (6)"
-    editors:
-      - Kaiama Glover
-      - Alex Gil
-      - Perry Collins
-      - Hadassah St. Hubert
-    production:
-      - Alex Gil
-      - Brian Ballsun-Stanton
-      - Alex Martin
-  issue07:
-    slug: issue07
-    slug_fr: fr/issue07
-    slug_es: es/issue07
-    output: true
-    number: 7
-    date: "May 2023"
-    title: "Issue (7)"
-    editors:
-      - Kaiama Glover
-      - Alex Gil
-    production:
-      - Alex Gil
-      - Brian Ballsun-Stanton
-      - Emily McGuinn
-  archives:
-    title: archives
-    output: true
-  cfps:
-    title: cfps
-    output: true
+ 
 
 # Current issue
 current: issue06
@@ -163,7 +92,7 @@ plugins:
 # About/contact
 author:
   name: "Archipelagos"
-  email: archipelagosjournal@gmail.com
+  email: info@naam.cw
 
 #i18n
 languages: ["en", "es", "fr"]
